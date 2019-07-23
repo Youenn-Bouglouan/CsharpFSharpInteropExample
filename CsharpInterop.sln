@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpInterop", "CsharpInterop\CsharpInterop.csproj", "{AC2057A6-5E23-4B92-B9F8-79ADE0CCB80F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CSharpInterop.Domain", "CSharpInterop.Domain\CSharpInterop.Domain.fsproj", "{A6A725D5-1443-4365-A72E-85BC79A8E59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2057A6-5E23-4B92-B9F8-79ADE0CCB80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2057A6-5E23-4B92-B9F8-79ADE0CCB80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2057A6-5E23-4B92-B9F8-79ADE0CCB80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2057A6-5E23-4B92-B9F8-79ADE0CCB80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A725D5-1443-4365-A72E-85BC79A8E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A725D5-1443-4365-A72E-85BC79A8E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A725D5-1443-4365-A72E-85BC79A8E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A725D5-1443-4365-A72E-85BC79A8E59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34F078D6-1254-49A9-A5A1-A223AA8E71AE}
+	EndGlobalSection
+EndGlobal
